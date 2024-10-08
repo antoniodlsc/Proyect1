@@ -1,0 +1,86 @@
+/* Estilos globales */
+body {
+    margin: 0; /* Elimina márgenes predeterminados */
+    padding: 0; /* Elimina padding predeterminado */
+    overflow-x: hidden; /* Evita el desplazamiento horizontal */
+    
+    
+}
+.navbar{
+    font-family: "DM Sans", sans-serif;
+}
+
+.seccion1 {
+    background-color: #161A30;
+    color: white;
+    padding-left: 0; /* Elimina padding lateral */
+    padding-right: 0; /* Elimina padding lateral */
+    max-width: 100%; /* Asegura que el contenedor ocupe todo el ancho */
+    font-family:"DM Sans", sans-serif;
+}
+
+.seccion1 {
+    height: 800px;
+    color: white;
+}
+
+.seccion2 {
+    background-color: #31304D;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    font-family: "DM Sans", sans-serif;
+}
+
+.seccion3 {
+    color: white;
+    background-color: #73777B;
+    height: 600px;
+    font-family: "DM Sans", sans-serif;
+}
+
+.img-fluid {
+    height: 350px !important; /* Importante si quieres que se respete este tamaño */
+    width: 350px;
+}
+
+.titulo1 {
+    color: #FFF2C6;
+}
+
+.subtitlos1 {
+    color: #F0ECE5;
+}
+
+.texto1 {
+    padding-top: 4em;
+}
+
+.intruduccion {
+    padding-top: 1em;
+}
+
+.img1 {
+    height: 300px;
+    border-radius: 500%; /* Hace que la imagen sea redonda */
+}
+
+.listaContacto li {
+    font-family: "DM Sans", sans-serif;
+    padding-bottom: 3px; /* Espacio entre elementos de la lista */
+}
+
+.listaContacto {
+    list-style-type: none; /* Elimina viñetas de la lista */
+}
+
+.nombreEmpresa {
+    color: white;
+}
+
+
+.dm-sans-primerasans {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
